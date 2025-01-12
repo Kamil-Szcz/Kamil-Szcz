@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL, PL/SQL and Power BI
 - 💞️ I am looking for cooperation in data analysis
 - 📫 It is possible to contact me via: 
-[<img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kamil-szczygielski)
+[<img alt="linked-in" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />](https://www.linkedin.com/in/kamil-szczygielski)
 
 <!---
 Kamil-Szcz/Kamil-Szcz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
