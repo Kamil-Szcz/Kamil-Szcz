@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamil
+- 👋 Hi, I’m Kamil
 - 👀 I’m interested in footbal, mixed martial arts and databases
 - 🌱 I’m currently learning SQL, PL/SQL and Power BI
 - 💞️ I am looking for cooperation in data analysis
