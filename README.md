@@ -1,8 +1,8 @@
 # Hello, I’m Kamil 👋
 
 - 🌱 I’m currently learning SQL, PL/SQL and Power BI
-- 👀 I’m interested in footbal, mixed martial arts and databases
-- 💞️ I am looking for cooperation in data analysis
+- 🧲 I’m interested in footbal, mixed martial arts and databases
+- 👀 I am looking for cooperation in data analysis
 
 # Contact with me 📫
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kamil-szczygielski)<br><br>
