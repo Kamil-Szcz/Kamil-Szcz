@@ -1,7 +1,7 @@
 # Hello, I’m Kamil 👋
 
 - 🌱 I’m currently learning SQL, Python and Power BI
-- 🧲 I’m interested in footbal, true crime podcasts and data analysis
+- 🧲 I’m interested in footbal, true crime podcasts and databases
 - 👀 I am looking for cooperation in data analysis
 
 # Contact with me 📫
